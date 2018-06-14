@@ -11,6 +11,7 @@ public abstract class AbstractCustomer implements ICustomer {
 	// Attributes
 	/**
 	 * The name of the customer.
+	* test
 	 */
 	private String name;
 	
